@@ -1,0 +1,6 @@
+,prediction_layer,score
+0,MLP_16_2,7.665780822306015
+1,Random forest models,7.764851469777563
+,prediction_layer,score
+0,MLP_16_2,224.76804557413325
+1,Random forest models,7.900309399412047

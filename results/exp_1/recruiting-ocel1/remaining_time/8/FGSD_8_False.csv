@@ -1,0 +1,54 @@
+,prediction_layer,score
+0,MLP_8_1,27.89405563098499
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_8_2,25.136938103204248
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_8_4,24.293221457136138
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_16_1,24.83459693482939
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_16_2,24.504696470012853
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_16_4,24.17562097945837
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_32_1,25.552025093022493
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_32_2,24.10033216249008
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625
+,prediction_layer,score
+0,MLP_32_4,24.860323836515935
+1,Linear models,24.216824081003217
+2,Random forest models,24.338265744336884
+3,XGB models,24.33484375
+4,SK MLP models,24.367890625

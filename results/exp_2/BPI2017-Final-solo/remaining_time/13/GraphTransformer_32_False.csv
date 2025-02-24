@@ -1,0 +1,6 @@
+,prediction_layer,score
+0,MLP_16_2,3.7708334447599965
+1,Linear models,3.9544172791936236
+2,Random forest models,3.0729901872765817
+3,XGB models,3.1456976996527777
+4,SK MLP models,3.359866898148148
