@@ -1,4 +1,4 @@
-# OCPPM-graph-pipeline
+# A Framework for Object-centric Predictive Process Monitoring using Graph-based Process Executions
 
 # Configuration
 ## Creating a virtual environment with interpreter Python 3.10
